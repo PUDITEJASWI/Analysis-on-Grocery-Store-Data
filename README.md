@@ -1,0 +1,1 @@
+This SQL project focuses on analyzing global retail sales data to uncover key business insights. It involves designing and managing relational databases, executing complex queries, and generating reports to identify top-performing products, regions, and sales trends. The project demonstrates strong SQL skills in data extraction, transformation, and analysis for decision-making.
